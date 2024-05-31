@@ -3,19 +3,7 @@
 Hi there! I'm a passionate full-stack web developer who loves crafting beautiful and functional web applications. Here are some of the technologies I work with:
 
 
-- **HTML5**
-
-- **CSS3**
-
-- **JavaScript**
-
-- **Node.js**
-
-- **Express.js**
-
-- **React.js**
-
-- **MongoDB**
+**HTML5** | **CSS3** | **JavaScript** | **Node.js** | **Express.js** | **React.js** | **MongoDB**
 
 <h2>About Me</h2>
 
