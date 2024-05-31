@@ -34,10 +34,6 @@ These interests not only provide a well-rounded life but also fuel my creativity
 
 <h2>Let's Connect!</h2>
 
-I'm always excited to collaborate on new projects and explore innovative ideas. Let's build something amazing together!
-
-
-let’s connect! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/omed-hossaini/) or [GitHub](https://github.com/OmedHossaini) to discuss potential opportunities or collaborations. 🤝
-
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/omed-hossaini/) or [GitHub](https://github.com/OmedHossaini) to discuss potential opportunities or collaborations. 🤝
 
 Thank you for visiting my profile. I look forward to the possibility of working together to create something extraordinary! 🚀
